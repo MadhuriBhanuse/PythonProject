@@ -1,0 +1,9 @@
+a=20
+b=30
+c=60
+sum=a+b+c
+print(sum)
+sum=sum-20
+print(sum)
+sum=sum+2
+print(sum)
